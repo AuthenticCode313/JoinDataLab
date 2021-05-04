@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.exe
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.deps.json
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.runtimeconfig.json
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.dll
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\bin\Debug\netcoreapp3.1\JoiningDataOOPLab.pdb
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.dll
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.pdb
+C:\Users\12482\source\repos\JoiningDataOOPLab\JoiningDataOOPLab\obj\Debug\netcoreapp3.1\JoiningDataOOPLab.genruntimeconfig.cache
